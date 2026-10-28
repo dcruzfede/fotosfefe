@@ -797,7 +797,9 @@
   "blog/dlores-articulaciones-menopausia-67dd40bec30cb3.46053126.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/dlores-articulaciones-menopausia-67dd40bec30cb3.46053126.jpeg",
    "bytes": 2952806,
-   "dim": "8192x5464"
+   "dim": "8192x5464",
+   "focal": "50% 12%",
+   "used": "proteinas-mujer-40 · Manifiesto (a sang 1920x1080, amb vel crema .84)"
   },
   "blog/istock-1082024158-6838735f461ef9.02279127.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/istock-1082024158-6838735f461ef9.02279127.jpeg",
@@ -832,7 +834,9 @@
   "blog/istock-1460151516jpg-683872955ddf16.99923075.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/istock-1460151516jpg-683872955ddf16.99923075.jpeg",
    "bytes": 158285,
-   "dim": "1502x1001"
+   "dim": "1502x1001",
+   "focal": "78% 40%",
+   "used": "proteinas-mujer-40 · Seccion · La formula (plafo 680x1080)"
   },
   "blog/istock-1482899565-683873198fe757.83923663.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/istock-1482899565-683873198fe757.83923663.jpeg",
@@ -857,7 +861,9 @@
   "blog/istock-1665596016jpg-6838738eafde40.06711988.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/istock-1665596016jpg-6838738eafde40.06711988.jpeg",
    "bytes": 131491,
-   "dim": "1501x1001"
+   "dim": "1501x1001",
+   "focal": "38% 30%",
+   "used": "proteinas-mujer-40 · Seccion · El consejo (plafo 680x1080)"
   },
   "blog/istock-2169333760-1-67e3ccfd541a83.36615160.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/istock-2169333760-1-67e3ccfd541a83.36615160.jpeg",
@@ -872,7 +878,9 @@
   "blog/istock-500179467-683872c25caa76.34666842.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/istock-500179467-683872c25caa76.34666842.jpeg",
    "bytes": 72325,
-   "dim": "1502x1001"
+   "dim": "1502x1001",
+   "focal": "29% 30%",
+   "used": "proteinas-mujer-40 · Seccion · El problema (plafo 680x1080)"
   },
   "blog/istock-500179467jpg-683872d19f20d0.20277570.jpeg": {
    "url": "https://files.farmaofficego.com/blogs/e5ab714cec96318818ebb280ebb44565/istock-500179467jpg-683872d19f20d0.20277570.jpeg",
@@ -1579,5 +1587,6 @@
    "bytes": 5498,
    "dim": "32x44"
   }
- }
+ },
+ "focal_note": "`focal` = object-position X% Y%: la posicio del SUBJECTE dins de la foto. Es el mateix contracte que skills/presentation-to-html/tools/crop-focal.py, pero aquestes fotos son PROVISIONALS i NO son a assets/orissens/photos.json, o sigui que el gate `focal` no les comprova (les fotos que no casen amb el manifest les salta en silenci). Verificat a ma al navegador. Quan arribi el set HQ de marqueting, reaprofita aquests valors."
 }
