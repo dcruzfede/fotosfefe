@@ -1,7 +1,7 @@
 {
  "source": "https://www.orissens.com",
  "captured": "2026-10-28",
- "status": "PROVISIONAL — scraped from the public site as stand-ins. REPLACE with the HQ set from marketing.",
+ "status": "PROVISIONAL — scraped from the public site as stand-ins. The HQ set from marketing arrived 2026-10-29 and is now in assets/orissens/photos.json; the 101 entries carrying `superseded_by` are covered there and this folder can be pruned to the rest.",
  "excluded": "third-party widget assets (themepunch/elfsight/twitter) and FarmaOffice platform UI — not Orissens-owned",
  "images": {
   "other/5035487d-0a29-46de-8e3c-9b80856cfe65_1750280256681.png": {
@@ -965,17 +965,20 @@
   "products/0015-articulaciones-colageno-68bee8c9f224d6.09016277.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/0015-articulaciones-colageno-68bee8c9f224d6.09016277.jpeg",
    "bytes": 1422957,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-articulacionescolagenoforte-bodegon"
   },
   "products/articulacionesv2-apng-69f9c63c846f83.21970335.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/articulacionesv2-apng-69f9c63c846f83.21970335.png",
    "bytes": 98585,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-articulacionescolagenoforte-cenefa-izquierda"
   },
   "products/articulacionesv2-bpng-69f9c6452fea00.34695437.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/articulacionesv2-bpng-69f9c6452fea00.34695437.png",
    "bytes": 90302,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-articulacionescolagenoforte-cenefa-derecha"
   },
   "products/b12-c10jpg-698eff07c48c38.89686698.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/b12-c10jpg-698eff07c48c38.89686698.jpeg",
@@ -985,27 +988,32 @@
   "products/cbdv2-apng-69f9d1973e3ff6.64914779.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/cbdv2-apng-69f9d1973e3ff6.64914779.png",
    "bytes": 159782,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-cannabisfortecbd-cenefa-izquierda"
   },
   "products/cbdv2-bpng-69f9d19f12f7c6.65215747.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/cbdv2-bpng-69f9d19f12f7c6.65215747.png",
    "bytes": 153472,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-cannabisfortecbd-cenefa-derecha"
   },
   "products/cistibalance-apng-69f34a242f49f4.38900313.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/cistibalance-apng-69f34a242f49f4.38900313.png",
    "bytes": 130963,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-cistibalanceforte-cenefa-izquierda"
   },
   "products/cistibalance-bpng-69f34a2c015005.70885236.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/cistibalance-bpng-69f34a2c015005.70885236.png",
    "bytes": 130467,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-cistibalanceforte-cenefa-derecha"
   },
   "products/cistibalance-forte-68beca19060589.24740162.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/cistibalance-forte-68beca19060589.24740162.jpeg",
    "bytes": 2087557,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-cistibalanceforte-bodegon-02"
   },
   "products/creatina2jpg-698cb5888876d7.49050024.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/creatina2jpg-698cb5888876d7.49050024.jpeg",
@@ -1015,132 +1023,158 @@
   "products/detox-quemagrasa-68bec9af173188.97897135.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/detox-quemagrasa-68bec9af173188.97897135.jpeg",
    "bytes": 2604466,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-detoxquemagrasa-bodegon-02"
   },
   "products/detoxv2-apng-69f9c5dfcaa014.11976778.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/detoxv2-apng-69f9c5dfcaa014.11976778.png",
    "bytes": 199883,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-detoxquemagrasa-cenefa-izquierda"
   },
   "products/detoxv2-bpng-69f9c5e990ade0.67429826.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/detoxv2-bpng-69f9c5e990ade0.67429826.png",
    "bytes": 193730,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-detoxquemagrasa-cenefa-derecha"
   },
   "products/flores-mucus-apng-69eb664d944f68.41758062.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/flores-mucus-apng-69eb664d944f68.41758062.png",
    "bytes": 137013,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-mucus-cenefa-izquierda"
   },
   "products/flores-mucus-b2png-69eb6947160692.58377259.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/flores-mucus-b2png-69eb6947160692.58377259.png",
    "bytes": 135878,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-mucus-cenefa-derecha"
   },
   "products/inmuno-forte-68beca47a29e22.89118348.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/inmuno-forte-68beca47a29e22.89118348.jpeg",
    "bytes": 2071391,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-inmunoforte-bodegon"
   },
   "products/inmuno-forte-apng-69f33de05cbd81.39673501.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/inmuno-forte-apng-69f33de05cbd81.39673501.png",
    "bytes": 135906,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-inmunoforte-cenefa-izquierda"
   },
   "products/inmuno-forte-bpng-69f33de9cb43a3.50160695.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/inmuno-forte-bpng-69f33de9cb43a3.50160695.png",
    "bytes": 136211,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-inmunoforte-cenefa-derecha"
   },
   "products/intima-apng-69f34a024004d5.65692448.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/intima-apng-69f34a024004d5.65692448.png",
    "bytes": 92014,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-intimabalance-cenefa-izquierda"
   },
   "products/intima-bpng-69f34a0ae49cd2.87873500.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/intima-bpng-69f34a0ae49cd2.87873500.png",
    "bytes": 91448,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-intimabalance-cenefa-derecha"
   },
   "products/magnesio-potasio-68beca5f4e8744.48575058.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/magnesio-potasio-68beca5f4e8744.48575058.jpeg",
    "bytes": 1309667,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-magnesiopotasio-bodegon"
   },
   "products/magnesio-potasio-apng-69f34099308058.74265015.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/magnesio-potasio-apng-69f34099308058.74265015.png",
    "bytes": 85100,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-magnesiopotasio-cenefa-izquierda"
   },
   "products/magnesio-potasio-bpng-69f3408f39c5c6.45043176.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/magnesio-potasio-bpng-69f3408f39c5c6.45043176.png",
    "bytes": 87434,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-magnesiopotasio-cenefa-derecha"
   },
   "products/menopausia-68bec997a9b097.03872307.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/menopausia-68bec997a9b097.03872307.jpeg",
    "bytes": 2092266,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-menopausia-bodegon"
   },
   "products/menopausiav2-apng-69f9c7fa284bd2.25798763.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/menopausiav2-apng-69f9c7fa284bd2.25798763.png",
    "bytes": 149745,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-menopausia-cenefa-izquierda"
   },
   "products/menopausiav2-bpng-69f9c80313f819.19157814.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/menopausiav2-bpng-69f9c80313f819.19157814.png",
    "bytes": 139745,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-menopausia-cenefa-derecha"
   },
   "products/menstrual-flores-apng-69ef3b471ac7b1.04387972.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/menstrual-flores-apng-69ef3b471ac7b1.04387972.png",
    "bytes": 139288,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-menstrualforte-cenefa-izquierda"
   },
   "products/menstrual-flores-bpng-69ef3bac365428.03347628.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/menstrual-flores-bpng-69ef3bac365428.03347628.png",
    "bytes": 142533,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-menstrualforte-cenefa-derecha"
   },
   "products/menstrual-forte-68bec982890489.24163930.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/menstrual-forte-68bec982890489.24163930.jpeg",
    "bytes": 2280969,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-menstrualforte-bodegon"
   },
   "products/pea-fortev2-apng-69f9d1e24fe697.56775552.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/pea-fortev2-apng-69f9d1e24fe697.56775552.png",
    "bytes": 158448,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-cannabispeaforte-cenefa-izquierda"
   },
   "products/pea-fortev2-bpng-69f9d1edcdf8b1.16287783.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/pea-fortev2-bpng-69f9d1edcdf8b1.16287783.png",
    "bytes": 162176,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-cannabispeaforte-cenefa-derecha"
   },
   "products/piernas-ligeras-circulatorio-68bec9de349707.87671451.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-circulatorio-68bec9de349707.87671451.jpeg",
    "bytes": 2653087,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-piernasligerascomprimidos-bodegon"
   },
   "products/piernas-ligeras-comprimidos-apng-69f33d133de125.08643633.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-comprimidos-apng-69f33d133de125.08643633.png",
    "bytes": 171703,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-piernasligerascomprimidos-cenefa-izquierda"
   },
   "products/piernas-ligeras-comprimidos-bpng-69f33d1e4b8588.53757979.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-comprimidos-bpng-69f33d1e4b8588.53757979.png",
    "bytes": 167297,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-piernasligerascomprimidos-cenefa-derecha"
   },
   "products/piernas-ligeras-crema-apng-69f33c05c75de8.02330840.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-crema-apng-69f33c05c75de8.02330840.png",
    "bytes": 185283,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-piernasligerascrema-cenefa-izquierda"
   },
   "products/piernas-ligeras-crema-bpng-69f33c11368925.81978758.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-crema-bpng-69f33c11368925.81978758.png",
    "bytes": 187183,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-piernasligerascrema-cenefa-derecha"
   },
   "products/proteina-veganajpg-69934ad5b05973.96443785.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/proteina-veganajpg-69934ad5b05973.96443785.jpeg",
@@ -1155,7 +1189,8 @@
   "products/proteinas-apng-69f33ed2be6854.66106256.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/proteinas-apng-69f33ed2be6854.66106256.png",
    "bytes": 174013,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-vitazentriptofano-cenefa-izquierda"
   },
   "products/proteinas-bpng-69f33ebfbf6f92.36359302.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/proteinas-bpng-69f33ebfbf6f92.36359302.png",
@@ -1165,42 +1200,50 @@
   "products/proteinas-bpng-69f33ee5ea4220.99055842.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/proteinas-bpng-69f33ee5ea4220.99055842.png",
    "bytes": 168589,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-vitazentriptofano-cenefa-derecha"
   },
   "products/sueno-forte-68becaa1072045.96161593.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/sueno-forte-68becaa1072045.96161593.jpeg",
    "bytes": 2594886,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-suenoforte-bodegon"
   },
   "products/sueno-forte-apng-69f34b25657917.18828302.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/sueno-forte-apng-69f34b25657917.18828302.png",
    "bytes": 146686,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-suenoforte-cenefa-izquierda"
   },
   "products/sueno-forte-bpng-69f34b2d8a74c8.36023166.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/sueno-forte-bpng-69f34b2d8a74c8.36023166.png",
    "bytes": 148104,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-suenoforte-cenefa-derecha"
   },
   "products/sueno-gotas-68beca7fe6f179.28752401.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/sueno-gotas-68beca7fe6f179.28752401.jpeg",
    "bytes": 1995337,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-suenogotas-bodegon-02"
   },
   "products/sueno-gotas-apng-69f9c68c6d8c81.84381062.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/sueno-gotas-apng-69f9c68c6d8c81.84381062.png",
    "bytes": 161965,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-suenogotas-cenefa-izquierda"
   },
   "products/sueno-gotas-bpng-69f9c695d3abf0.43750342.png": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/sueno-gotas-bpng-69f9c695d3abf0.43750342.png",
    "bytes": 159811,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-suenogotas-cenefa-derecha"
   },
   "products/vitazen-triptofano-68bec9fc97af26.38195797.jpeg": {
    "url": "https://files.farmaofficego.com/parapharmacies/e5ab714cec96318818ebb280ebb44565/vitazen-triptofano-68bec9fc97af26.38195797.jpeg",
    "bytes": 2297329,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-vitazentriptofano-bodegon"
   },
   "sliders/banner-home2-1-68e623991e6220.71144614.jpeg": {
    "url": "https://files.farmaofficego.com/sliders/e5ab714cec96318818ebb280ebb44565/banner-home2-1-68e623991e6220.71144614.jpeg",
@@ -1215,217 +1258,260 @@
   "social/articulaciones-colageno-02-69c130b630fe13.15609349.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/articulaciones-colageno-02-69c130b630fe13.15609349.jpeg",
    "bytes": 373834,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-articulacionescolagenoforte-beneficios"
   },
   "social/articulaciones-colageno-03-69c130c04acc42.70716768.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/articulaciones-colageno-03-69c130c04acc42.70716768.jpeg",
    "bytes": 325415,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-articulacionescolagenoforte-ingredientes"
   },
   "social/articulaciones-colageno-04-69c130ccae5a84.01525403.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/articulaciones-colageno-04-69c130ccae5a84.01525403.jpeg",
    "bytes": 543354,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-articulacionescolagenoforte-modelo"
   },
   "social/cistibalance-03-69c142ff31d358.28942820.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/cistibalance-03-69c142ff31d358.28942820.jpeg",
    "bytes": 391796,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-cistibalanceforte-ingredientes"
   },
   "social/cistibalance-04-69c1430d1dd849.29898823.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/cistibalance-04-69c1430d1dd849.29898823.jpeg",
    "bytes": 619750,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-cistibalanceforte-modelo"
   },
   "social/cistibalance-forte-carrusel-02-69e8993ccf26c8.81504436.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/cistibalance-forte-carrusel-02-69e8993ccf26c8.81504436.jpeg",
    "bytes": 415189,
-   "dim": "1801x1801"
+   "dim": "1801x1801",
+   "superseded_by": "oris-cistibalanceforte-beneficios"
   },
   "social/detox-02-69c143b5405836.52368887.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/detox-02-69c143b5405836.52368887.jpeg",
    "bytes": 422329,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-detoxquemagrasa-beneficios"
   },
   "social/detox-03-69c143bfb00d06.37866038.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/detox-03-69c143bfb00d06.37866038.jpeg",
    "bytes": 500488,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-detoxquemagrasa-ingredientes"
   },
   "social/detox-04-69c143caa31ee9.57275741.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/detox-04-69c143caa31ee9.57275741.jpeg",
    "bytes": 476143,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-detoxquemagrasa-modelo"
   },
   "social/forte-crema-prod-1-6a1d35b0f355f1.32108087.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/forte-crema-prod-1-6a1d35b0f355f1.32108087.jpeg",
    "bytes": 175445,
-   "dim": "1001x1001"
+   "dim": "1001x1001",
+   "superseded_by": "oris-cannabisfortecbd-bodegon-02"
   },
   "social/forte-crema-prod-2-6a1d35bbd8b740.01275224.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/forte-crema-prod-2-6a1d35bbd8b740.01275224.jpeg",
    "bytes": 146734,
-   "dim": "1001x1001"
+   "dim": "1001x1001",
+   "superseded_by": "oris-cannabisfortecbd-beneficios"
   },
   "social/forte-crema-prod-3-6a1d35c64ff3c5.06413519.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/forte-crema-prod-3-6a1d35c64ff3c5.06413519.jpeg",
    "bytes": 137288,
-   "dim": "1001x1001"
+   "dim": "1001x1001",
+   "superseded_by": "oris-cannabisfortecbd-ingredientes"
   },
   "social/forte-crema-prod-4-6a1d35d1573cd2.92265295.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/forte-crema-prod-4-6a1d35d1573cd2.92265295.jpeg",
    "bytes": 105319,
-   "dim": "1001x1001"
+   "dim": "1001x1001",
+   "superseded_by": "oris-cannabisfortecbd-modelo"
   },
   "social/inmuno-forte-02-69c10aa8ba76c9.69441770.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/inmuno-forte-02-69c10aa8ba76c9.69441770.jpeg",
    "bytes": 392876,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-inmunoforte-beneficios"
   },
   "social/inmuno-forte-03-69c10ab6a69d02.23132083.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/inmuno-forte-03-69c10ab6a69d02.23132083.jpeg",
    "bytes": 369135,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-inmunoforte-ingredientes"
   },
   "social/inmuno-forte-04-69c10ac2a202b5.97437660.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/inmuno-forte-04-69c10ac2a202b5.97437660.jpeg",
    "bytes": 724189,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-inmunoforte-modelo"
   },
   "social/intima-balance-02-69c132c2dec316.84740877.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/intima-balance-02-69c132c2dec316.84740877.jpeg",
    "bytes": 362332,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-intimabalance-beneficios"
   },
   "social/intima-balance-03-69c132cd03f480.08061629.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/intima-balance-03-69c132cd03f480.08061629.jpeg",
    "bytes": 333344,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-intimabalance-ingredientes"
   },
   "social/intima-balance-04-69c132d6df8e44.54781862.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/intima-balance-04-69c132d6df8e44.54781862.jpeg",
    "bytes": 706806,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-intimabalance-modelo"
   },
   "social/intima-balance-69b037174228f6.18619403.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/intima-balance-69b037174228f6.18619403.jpeg",
    "bytes": 223607,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-intimabalance-bodegon"
   },
   "social/magnesio-potasio-02-69c10c8bab7653.87749459.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/magnesio-potasio-02-69c10c8bab7653.87749459.jpeg",
    "bytes": 430131,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-magnesiopotasio-beneficios"
   },
   "social/magnesio-potasio-03-69c10c96725903.91921051.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/magnesio-potasio-03-69c10c96725903.91921051.jpeg",
    "bytes": 331055,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-magnesiopotasio-ingredientes"
   },
   "social/magnesio-potasio-04-69c10ca45e1a65.34135129.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/magnesio-potasio-04-69c10ca45e1a65.34135129.jpeg",
    "bytes": 733780,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-magnesiopotasio-modelo"
   },
   "social/menopausia-02-69c1321c69e6e7.95763461.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/menopausia-02-69c1321c69e6e7.95763461.jpeg",
    "bytes": 307985,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-menopausia-beneficios"
   },
   "social/menopausia-03-69c13227be5552.73189810.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/menopausia-03-69c13227be5552.73189810.jpeg",
    "bytes": 366346,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-menopausia-ingredientes"
   },
   "social/menopausia-04-69c132330d5586.35449936.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/menopausia-04-69c132330d5586.35449936.jpeg",
    "bytes": 676764,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-menopausia-modelo"
   },
   "social/menstrual-forte-02-69c13168dbb932.82797624.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/menstrual-forte-02-69c13168dbb932.82797624.jpeg",
    "bytes": 409771,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-menstrualforte-beneficios"
   },
   "social/menstrual-forte-03-69c13174dd4127.84898001.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/menstrual-forte-03-69c13174dd4127.84898001.jpeg",
    "bytes": 506631,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-menstrualforte-ingredientes"
   },
   "social/menstrual-forte-04-69c131827e0f13.23322574.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/menstrual-forte-04-69c131827e0f13.23322574.jpeg",
    "bytes": 635696,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-menstrualforte-modelo"
   },
   "social/mucus-02-69c10d55af0875.82206483.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/mucus-02-69c10d55af0875.82206483.jpeg",
    "bytes": 327773,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-mucus-beneficios"
   },
   "social/mucus-03-69c10d6084eaa3.86453801.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/mucus-03-69c10d6084eaa3.86453801.jpeg",
    "bytes": 359613,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-mucus-ingredientes"
   },
   "social/mucus-04-69c10d6ea38177.89177272.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/mucus-04-69c10d6ea38177.89177272.jpeg",
    "bytes": 582169,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-mucus-modelo"
   },
   "social/mucus-68e7b37b905708.45609597.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/mucus-68e7b37b905708.45609597.jpeg",
    "bytes": 314175,
-   "dim": "2001x2001"
+   "dim": "2001x2001",
+   "superseded_by": "oris-mucus-bodegon"
   },
   "social/orissens-proteine-new-69a55da8bc1797.38073443.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/orissens-proteine-new-69a55da8bc1797.38073443.jpeg",
    "bytes": 246092,
-   "dim": "1000x1000"
+   "dim": "1000x1000",
+   "superseded_by": "oris-proteinas-bodegon"
   },
   "social/pea-forte-02-69c119ed2b6c76.98668416.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/pea-forte-02-69c119ed2b6c76.98668416.jpeg",
    "bytes": 441390,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-cannabispeaforte-beneficios"
   },
   "social/pea-forte-03-69c119f8cb7021.51571985.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/pea-forte-03-69c119f8cb7021.51571985.jpeg",
    "bytes": 514283,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-cannabispeaforte-ingredientes"
   },
   "social/pea-forte-04-69c11a090d3ca8.02149581.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/pea-forte-04-69c11a090d3ca8.02149581.jpeg",
    "bytes": 776707,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-cannabispeaforte-modelo"
   },
   "social/pea-forte-694ac42ce70978.83493107.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/pea-forte-694ac42ce70978.83493107.jpeg",
    "bytes": 795585,
-   "dim": "2001x2001"
+   "dim": "2001x2001",
+   "superseded_by": "oris-cannabispeaforte-bodegon-02"
   },
   "social/piernas-ligeras-carrusel-02-69e899038840a1.37271762.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-carrusel-02-69e899038840a1.37271762.jpeg",
    "bytes": 417112,
-   "dim": "1801x1801"
+   "dim": "1801x1801",
+   "superseded_by": "oris-piernasligerascrema-beneficios"
   },
   "social/piernas-ligeras-comprimidos-02-69bbedb2e4c3a9.69908755.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-comprimidos-02-69bbedb2e4c3a9.69908755.jpeg",
    "bytes": 455287,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-piernasligerascomprimidos-beneficios"
   },
   "social/piernas-ligeras-comprimidos-03-69bbedbf45bd15.85146544.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-comprimidos-03-69bbedbf45bd15.85146544.jpeg",
    "bytes": 483421,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-piernasligerascomprimidos-ingredientes"
   },
   "social/piernas-ligeras-comprimidos-04-69bbedcc2b95b3.15533345.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-comprimidos-04-69bbedcc2b95b3.15533345.jpeg",
    "bytes": 555157,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-piernasligerascomprimidos-modelo"
   },
   "social/piernas-ligeras-crema-04-69bbec8c9b6854.90020813.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-crema-04-69bbec8c9b6854.90020813.jpeg",
    "bytes": 517126,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-piernasligerascrema-modelo"
   },
   "social/piernas-ligeras-new-01-69fc666f9b12b2.90996215.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-new-01-69fc666f9b12b2.90996215.jpeg",
@@ -1435,7 +1521,8 @@
   "social/piernas-ligeras-new-03-69fc667ca18f82.06238132.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/piernas-ligeras-new-03-69fc667ca18f82.06238132.jpeg",
    "bytes": 589053,
-   "dim": "1801x1801"
+   "dim": "1801x1801",
+   "superseded_by": "oris-piernasligerascrema-ingredientes"
   },
   "social/proteinas-energia-fisica-y-mental-022-698cb01864a1d8.66846421.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/proteinas-energia-fisica-y-mental-022-698cb01864a1d8.66846421.jpeg",
@@ -1455,52 +1542,62 @@
   "social/sueno-forte-02-69bc16b0686ad7.46629520.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/sueno-forte-02-69bc16b0686ad7.46629520.jpeg",
    "bytes": 401786,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-suenoforte-beneficios"
   },
   "social/sueno-forte-03-69bc16be427093.23319772.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/sueno-forte-03-69bc16be427093.23319772.jpeg",
    "bytes": 452362,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-suenoforte-ingredientes"
   },
   "social/sueno-forte-04-69bc16cb2cf592.35400841.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/sueno-forte-04-69bc16cb2cf592.35400841.jpeg",
    "bytes": 527482,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-suenoforte-modelo"
   },
   "social/sueno-gotas-02-69bc156c8691c3.53215751.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/sueno-gotas-02-69bc156c8691c3.53215751.jpeg",
    "bytes": 378959,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-suenogotas-beneficios"
   },
   "social/sueno-gotas-03-69bc15795e1e35.62207738.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/sueno-gotas-03-69bc15795e1e35.62207738.jpeg",
    "bytes": 467031,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-suenogotas-ingredientes"
   },
   "social/sueno-gotas-04-69bc1585c83fd8.56034144.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/sueno-gotas-04-69bc1585c83fd8.56034144.jpeg",
    "bytes": 584292,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-suenogotas-modelo"
   },
   "social/tos-seca-y-productiva-69135544e5e624.96959525.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/tos-seca-y-productiva-69135544e5e624.96959525.jpeg",
    "bytes": 560090,
-   "dim": "2000x2000"
+   "dim": "2000x2000",
+   "superseded_by": "oris-tossecaproductiva-bodegon"
   },
   "social/vitazen-triptofano-02-69c10bbdb51ce6.98474558.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/vitazen-triptofano-02-69c10bbdb51ce6.98474558.jpeg",
    "bytes": 403481,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-vitazentriptofano-beneficios"
   },
   "social/vitazen-triptofano-03-69c10bcb8c06f1.59795185.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/vitazen-triptofano-03-69c10bcb8c06f1.59795185.jpeg",
    "bytes": 410086,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-vitazentriptofano-ingredientes"
   },
   "social/vitazen-triptofano-04-69c10bd7a05845.71517628.jpeg": {
    "url": "https://files.farmaofficego.com/social_medias/e5ab714cec96318818ebb280ebb44565/vitazen-triptofano-04-69c10bd7a05845.71517628.jpeg",
    "bytes": 637650,
-   "dim": "1800x1800"
+   "dim": "1800x1800",
+   "superseded_by": "oris-vitazentriptofano-modelo"
   },
   "team/arantxa-pascual-678eb19dd703f9.83130130.jpeg": {
    "url": "https://files.farmaofficego.com/teams/e5ab714cec96318818ebb280ebb44565/arantxa-pascual-678eb19dd703f9.83130130.jpeg",
@@ -1565,12 +1662,14 @@
   "products/flores-derecha-tos-secapng-6a622965879102.36369424.png": {
    "url": "https://image.foffice.ovh/parapharmacies/e5ab714cec96318818ebb280ebb44565/flores-derecha-tos-secapng-6a622965879102.36369424.png",
    "bytes": 164402,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-tossecaproductiva-cenefa-derecha"
   },
   "products/flores-izquierda-tos-secapng-6a622927ba1ee7.63473159.png": {
    "url": "https://image.foffice.ovh/parapharmacies/e5ab714cec96318818ebb280ebb44565/flores-izquierda-tos-secapng-6a622927ba1ee7.63473159.png",
    "bytes": 162489,
-   "dim": "184x600"
+   "dim": "184x600",
+   "superseded_by": "oris-tossecaproductiva-cenefa-izquierda"
   },
   "other/check.png": {
    "url": "https://www.orissens.com/assets/templates/orissens/images/check.png",
@@ -1588,5 +1687,6 @@
    "dim": "32x44"
   }
  },
- "focal_note": "`focal` = object-position X% Y%: la posicio del SUBJECTE dins de la foto. Es el mateix contracte que skills/presentation-to-html/tools/crop-focal.py, pero aquestes fotos son PROVISIONALS i NO son a assets/orissens/photos.json, o sigui que el gate `focal` no les comprova (les fotos que no casen amb el manifest les salta en silenci). Verificat a ma al navegador. Quan arribi el set HQ de marqueting, reaprofita aquests valors."
+ "focal_note": "`focal` = object-position X% Y%: la posicio del SUBJECTE dins de la foto. Es el mateix contracte que skills/presentation-to-html/tools/crop-focal.py, pero aquestes fotos son PROVISIONALS i NO son a assets/orissens/photos.json, o sigui que el gate `focal` no les comprova (les fotos que no casen amb el manifest les salta en silenci). Verificat a ma al navegador. Quan arribi el set HQ de marqueting, reaprofita aquests valors.",
+ "superseded_note": "`superseded_by` names the key in assets/orissens/photos.json that now covers this shot. 45 of those curated entries ARE this scrape's file: marketing ships those three carousel slides (beneficios / ingredientes / modelo) at 1200x1200 while the site serves 1800x1800, so the larger file was the one promoted into the library. Do not delete a file here before checking photos.json: it may be the copy the library points at."
 }
